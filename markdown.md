@@ -19,14 +19,15 @@ Con este lenguaje de marcas podemos usar:
 3. Párrafos.
 4. Listas.
 
-También podemos incluir un enlace, a una página externa [Debian](https://www.debian.org/index.es.html) o a otro fichero Markdown [aqui](Prueba-MariaJesus/README.md)
+También podemos incluir un enlace, a una página externa [Debian](https://www.debian.org/index.es.html) o a otro fichero Markdown [aqui](README.md)
 
 Podemos visualizar una imagen
+
 ![Icono Markdown](markdown.png)
 
 Y también tablas.
 | Elemento | Sintaxis |
 | ----------- | ----------- |
 | Título | #h1 |
-| Códifo | `code` |
+| Código | `code` |
 | Enlace | [titulo](enlace) |
