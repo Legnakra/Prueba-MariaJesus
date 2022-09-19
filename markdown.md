@@ -2,11 +2,11 @@
 
 ## ¿Qué vas a aprender en este taller?
 
-Aprender la *sintaxis básica* del **lenguaje de marcas** `code`Markdown`code` para estructura la información en nuestro documentos.
+Aprender la *sintaxis básica* del **lenguaje de marcas** `Markdown` para estructura la información en nuestro documentos.
 
 Para ello, hemos creado este fichero de la siguiente manera:
-`code`touch markdown.md
-nano markdown.md `code`
+`touch markdown.md`
+`nano markdown.md`
 
 Con este lenguaje de marcas podemos usar:
 * Titulo principal.
